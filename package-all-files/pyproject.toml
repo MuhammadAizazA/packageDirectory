@@ -8,3 +8,6 @@ authors = [
     {name = "Aizaz Shah", email = "aizaz.ali.shah.0205@gmail.com"},
 ]
 version = "1.0.0"
+
+[project.scripts]
+zee = "packageFiles.__main__:main"
