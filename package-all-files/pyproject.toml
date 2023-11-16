@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zeezoo"
+authors = [
+    {name = "Aizaz Shah", email = "aizaz.ali.shah.0205@gmail.com"},
+]
+version = "1.0.0"

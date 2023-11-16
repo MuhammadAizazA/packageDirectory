@@ -1,0 +1,7 @@
+pyproject.toml
+packageFiles/__main__.py
+packageFiles/module.py
+zeezoo.egg-info/PKG-INFO
+zeezoo.egg-info/SOURCES.txt
+zeezoo.egg-info/dependency_links.txt
+zeezoo.egg-info/top_level.txt
